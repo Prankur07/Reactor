@@ -1,2 +1,2 @@
 # Reactor
-React learning library
+Learning React
